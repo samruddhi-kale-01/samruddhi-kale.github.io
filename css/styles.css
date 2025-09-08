@@ -11719,3 +11719,24 @@ h1 .text-primary {
         font-size: 1.75rem !important;
     }
 }
+
+/* Subtle text readability improvements */
+p {
+    color: #4a5568 !important;
+    line-height: 1.6;
+}
+
+.lead {
+    color: #2d3748 !important;
+    line-height: 1.65;
+}
+
+li {
+    color: #4a5568 !important;
+    line-height: 1.6;
+}
+
+/* Keep existing font but improve contrast slightly */
+body {
+    color: #4a5568 !important;
+}
